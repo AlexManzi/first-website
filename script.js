@@ -5,6 +5,6 @@ window.addEventListener('scroll', function(){
 
 const projects = document.getElementById('projects');
 function clickAlert() {
-  alert("Whoops, there doesn't seem to be anything here yet! Check back soon!");
+  alert("Whoops, I haven't completed my bootcamp yet! Check back in a few months for a full showcase of my work.");
 }
 projects.addEventListener('click', clickAlert);
